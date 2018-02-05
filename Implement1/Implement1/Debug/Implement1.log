@@ -1,0 +1,31 @@
+﻿  Source.cpp
+c:\users\garyhsu123\documents\social-force-master\implement1\include\glui.h(880): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\source.cpp(14): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\source.cpp(19): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\source.cpp(56): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\source.cpp(61): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+  Crowd.cpp
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(9): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(10): warning C4244: '=' : conversion from 'double' to 'Crowd::mytype', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(26): warning C4244: '=' : conversion from 'int' to 'Crowd::mytype', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(27): warning C4244: '=' : conversion from 'int' to 'Crowd::mytype', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(78): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(81): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(85): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(87): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(92): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(184): warning C4305: 'argument' : truncation from 'double' to 'const float'
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(185): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(203): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(274): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(321): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(344): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(376): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(408): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(439): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(488): warning C4305: 'argument' : truncation from 'double' to 'const float'
+c:\users\garyhsu123\documents\social-force-master\implement1\implement1\crowd.cpp(509): warning C4305: 'argument' : truncation from 'double' to 'const float'
+  Generating Code...
+  Implement1.vcxproj -> C:\Users\garyhsu123\Documents\social-force-master\Implement1\Debug\Implement1.exe
